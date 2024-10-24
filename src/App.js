@@ -14,7 +14,7 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Cheryl R. Basopo</small>
+          <small>This project was coded by Cheryl R. Basopo and is <a href="https://github.com/crbasopo/react-dictionary">open-sourced on Github</a> and <a href="https://boisterous-manatee-6e17af.netlify.app">hosted on Neflify</a></small>
         </footer>
       </div>
     </div>
